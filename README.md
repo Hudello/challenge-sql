@@ -1,6 +1,6 @@
 # Hudello Coding Challenge: SQL
 
-Welcome to our SQL coding challenge. In this exercise, you'll develop 2 SQL queries using the included SQLite database:
+Welcome to our SQL coding challenge. In this exercise, you'll create 2 SQL queries using the included SQLite database:
 - Find the average grade of each `course`.
   ```
   course|average
