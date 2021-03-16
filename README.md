@@ -16,7 +16,7 @@ Welcome to our SQL coding challenge. In this exercise, you'll create 2 SQL queri
 
 You may use subqueries and joins, but you cannot use more than 1 query for each of the above.
 
-To get started:
+## To get started:
 1. Fork or clone this repo.
 2. Implement your code.
 3. Send us a link to your repo for review.
